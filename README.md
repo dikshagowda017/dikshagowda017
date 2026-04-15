@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Connect with me
-📧 Email: your-email@example.com  
-🔗 LinkedIn: add-your-link-here  
+📧 Email: dikshagowda017@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/diksha-gowda-242881293/  
 
 ---
 
