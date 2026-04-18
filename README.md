@@ -1,5 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&cache_seconds=0
-# 👋 Hi, I'm Diksha
+# 👋 Hi, I'm Diksha B R
 
 💻 Aspiring Software Developer  
 🎓 Student at Mangalore Institute of Technology  
