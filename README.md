@@ -4,7 +4,7 @@
 🎓 Student at Mangalore Institute of Technology  
 🚀 Passionate about building real-world projects & hackathons  
 
----
+------
 
 ## 🔥 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical)
