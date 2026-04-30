@@ -15,30 +15,86 @@
 
 ---
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+## 💻 My favorite tools and technologies
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+<div align="center">
 
-  <p>
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  </p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#
+</td>
+</tr>
 
-  <h3>🧰 Tools</h3>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
+</td>
+</tr>
 
-  <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-  </p>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=graphql" width="48"/><br>GraphQL
+</td>
+</tr>
 
-</details>
+</table>
+
+</div>
 
 ---
 
