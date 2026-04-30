@@ -1,43 +1,85 @@
-# 👋 Hi, I'm Diksha B R
+### Hi there 👋
 
-💻 Aspiring Software Developer  
-🎓 Student at Mangalore Institute of Technology  
-🚀 Passionate about building real-world projects & hackathons  
-
-------
-
-## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dikshagowda017&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=radical)
+<h3 align="center">A tech enthusiast passionate about AI, creativity & content</h3>
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham&include_all_commits=true" />
+  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gotham" />
+</p>
 
 ---
 
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=dikshagowda017&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+- 😄 I’m a student at Mangalore Institute of Technology  
+- 🎥 UGC Creator (college-focused content)  
+- 🔭 Currently working on projects & improving coding skills  
+- 🌱 Learning: DSA, AI basics, Web Development  
+- 👯 Looking to collaborate on tech + content ideas  
 
 ---
 
-## 📌 Projects
-🔹 Smart Waste Segregation & Recycling Tracker  
-🔹 Real-time Fraud Detection System (Kafka based)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Diksha+B+R;Engineering+Student;Tech+%2B+Content+Creator;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 📫 Connect with me
-📧 Email: dikshagowda017@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/diksha-gowda-242881293/  
+### 🌐 Connect with me
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img width="32px" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="YOUR_INSTAGRAM"><img width="32px" src="https://skillicons.dev/icons?i=instagram"/></a>
+</p>
 
 ---
 
-⭐ *“Code. Create. Innovate.”*
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=gotham&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&column=3&row=2" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+### 🛠️ My Favorite Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,git,github,vscode,mysql" />
+</p>
+
+---
+
+### 💻 Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,bootstrap,tailwind,figma" />
+</p>
+
+---
+
+### 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+</p>
+
+---
+
+### ✨ Quote
+
+> “Consistency > Motivation 🚀”
