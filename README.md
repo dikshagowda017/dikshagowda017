@@ -104,8 +104,35 @@
 ---
 
 ## 📌 Projects
-🔹 Smart Waste Segregation & Recycling Tracker  
-🔹 Real-time Fraud Detection System (Kafka based)  
+
+### 🧠 Adaptive CPU Scheduling using Reinforcement Learning (2026–2027)
+- Developed an intelligent CPU scheduling system using reinforcement learning  
+- Reduced waiting time, turnaround time, and CPU idle time  
+- Compared performance with FCFS and Round Robin algorithms  
+- **Tech:** Python, Reinforcement Learning  
+
+---
+
+### 🎓 Student Management System (Full Stack) (2025)
+- Built a web-based application to manage student records (CRUD operations)  
+- Designed RESTful APIs for backend operations  
+- Implemented efficient database storage and retrieval  
+- **Tech:** HTML, CSS, JavaScript, Backend + Database  
+
+---
+
+### 🎬 Movie Recommendation System (ML + Collaborative Filtering) (2025)
+- Developed a recommendation system based on user preferences and similarity metrics  
+- Implemented collaborative filtering for personalized suggestions  
+- Improved recommendation accuracy  
+- **Tech:** Python, Machine Learning  
+
+---
+
+### 🌐 Portfolio Website (UI/UX + Frontend) (2024)
+- Designed a responsive personal portfolio website  
+- Focused on clean UI, smooth navigation, and user experience  
+- **Tech:** HTML, CSS, JavaScript  
 
 ---
 
