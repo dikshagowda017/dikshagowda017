@@ -45,10 +45,10 @@
 ## 📬 Connect with me
 
 <p align="center">
-  📧 <a href="mailto:dikshagowda017@gmail.com">dikshagowda017@gmail.com</a>
-</p>
-
-<p align="center">
+  <a href="mailto:dikshagowda017@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diksha-gowda-242881293/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
