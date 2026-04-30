@@ -44,13 +44,13 @@
 
 ## 📫 Connect with me
 
-📧 Email: [dikshagowda017@gmail.com](mailto:dikshagowda017@gmail.com)
+📧 Email: <a href="mailto:dikshagowda017@gmail.com">dikshagowda017@gmail.com</a>
 
 <p>
   <a href="https://www.linkedin.com/in/diksha-gowda-242881293/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/_.dixshaa.gowda._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
