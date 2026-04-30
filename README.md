@@ -42,16 +42,19 @@
 
 ---
 
-## 📫 Connect with me
+## 📬 Connect with me
 
-📧 Email: <a href="mailto:dikshagowda017@gmail.com">dikshagowda017@gmail.com</a>
+<p align="center">
+  📧 <a href="mailto:dikshagowda017@gmail.com">dikshagowda017@gmail.com</a>
+</p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/diksha-gowda-242881293/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://instagram.com/_.dixshaa.gowda._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
