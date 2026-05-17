@@ -7,11 +7,16 @@
 ------
 
 ## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dikshagowda017&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
+  
+  <img src="https://streak-stats.demolab.com?user=dikshagowda017&theme=radical&cache_seconds=1800" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+</p>
 
 ---
 
