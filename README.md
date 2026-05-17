@@ -9,16 +9,17 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  
-  <img src="https://streak-stats.demolab.com?user=dikshagowda017&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dikshagowda017&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=dikshagowda017&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=radical" />
+</p>
+-----
 
 ## 💻 My favorite tools and technologies
 
