@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diksha B R
 
-💻 Aspiring Software Developer.
+💻 Aspiring Software Developer
 🎓 Student at Mangalore Institute of Technology  
 🚀 Passionate about building real-world projects & hackathons  
 
