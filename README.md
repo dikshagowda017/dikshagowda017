@@ -47,12 +47,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **AI Resume Screener** | AI-powered resume screening application using NLP, TF-IDF, and Cosine Similarity to match resumes with job descriptions. |
-| 💻 **Student Skill Tracker** | Full-stack MERN application for managing and tracking student skills using CRUD operations. |
-| 📚 **LeetCode Java Solutions** | A growing collection of optimized Java solutions with explanations for coding interview preparation. |
-| 🌐 **Portfolio Website** | Responsive personal portfolio showcasing projects, skills, and achievements. |
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|--------|
+| 🤖 **AI Resume Screener** | Python, NLP, Scikit-learn, Streamlit | AI-powered resume screening system that parses resumes, extracts skills, and matches candidates with job descriptions using **TF-IDF** and **Cosine Similarity**. | ✅ Completed |
+| 🧠 **Adaptive CPU Scheduling using Reinforcement Learning** | Python, Reinforcement Learning | Intelligent CPU scheduler that optimizes waiting time, turnaround time, and CPU utilization using **Reinforcement Learning**, benchmarked against **FCFS** and **Round Robin** algorithms. | 🚧 Ongoing |
+| 🌐 **Portfolio Website** | HTML, CSS, JavaScript | Responsive personal portfolio showcasing projects, technical skills, certifications, and achievements with a modern and clean user interface. | ✅ Completed |
+| 🎬 **Movie Recommendation System** | Python, Machine Learning | Recommendation engine using **Collaborative Filtering** to suggest personalized movies based on user preferences and similarity metrics. | ✅ Completed |
 
 ---
 
