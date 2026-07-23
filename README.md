@@ -4,40 +4,42 @@
 
 ### AI & ML Student • Full Stack Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Java+%7C+Python+%7C+React+Developer;LeetCode+Everyday+%F0%9F%9A%80;Building+Projects+One+Commit+at+a+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Java+Developer;Building+AI+%26+Full+Stack+Projects;LeetCode+Daily+%F0%9F%9A%80;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 ```text
-🎓 Final Year CSE (AI & ML)
+🎓 Final Year B.E. Computer Science (AI & ML)
 
-💻 Solving LeetCode daily
+💻 Passionate about Java, Machine Learning,
+   and Full Stack Development
 
-🤖 Interested in
-   • Machine Learning
-   • Artificial Intelligence
-   • Full Stack Development
-
-🌱 Currently Learning
+🧠 Currently Learning
    • Spring Boot
    • Data Structures & Algorithms
    • System Design
 
+🚀 Currently Building
+   • AI Resume Screener
+   • Student Skill Tracker
+   • Daily LeetCode Solutions
+
 🎯 Goal
-   Land an SDE / AI Engineer role
+   Software Development Engineer (SDE)
+   | AI Engineer
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 
 </p>
 
@@ -47,10 +49,10 @@
 
 | Project | Description |
 |---------|-------------|
-| 🤖 AI Resume Screener | Resume matching using NLP |
-| 💻 Student Skill Tracker | MERN CRUD Application |
-| 📚 Java DSA | LeetCode + Interview Questions |
-| 🌐 Portfolio Website | Responsive personal portfolio |
+| 🤖 **AI Resume Screener** | AI-powered resume screening application using NLP, TF-IDF, and Cosine Similarity to match resumes with job descriptions. |
+| 💻 **Student Skill Tracker** | Full-stack MERN application for managing and tracking student skills using CRUD operations. |
+| 📚 **LeetCode Java Solutions** | A growing collection of optimized Java solutions with explanations for coding interview preparation. |
+| 🌐 **Portfolio Website** | Responsive personal portfolio showcasing projects, skills, and achievements. |
 
 ---
 
@@ -58,19 +60,19 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikshagowda017&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshagowda017&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Languages
+## 📊 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,25 +82,47 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/DikshaBR017/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/dikshagowda017">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/diksha-gowda-242881293/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 🌱 Currently Working On
+
+- 🔹 Solving LeetCode problems every day
+- 🔹 Building AI & Machine Learning projects
+- 🔹 Learning Spring Boot
+- 🔹 Improving Full Stack Development skills
+
+---
+
+## 💡 Fun Fact
+
+```java
+while (!success) {
+    learn();
+    code();
+    commit();
+    improve();
+}
+```
+
+---
+
 ## 🌼 Quote
 
-> *"Small improvements every day become remarkable results."*
+> *"Consistency beats intensity. Every commit brings me one step closer to my goal."*
 
 ---
 
@@ -106,6 +130,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=dikshagowda017&color=7F5AF0&style=flat-square"/>
 
 </div>
