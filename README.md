@@ -67,14 +67,11 @@
 </p>
 
 ---
-
-## 📊 Most Used Languages
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshagowda017&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 </p>
-
----
 
 ## 🏆 Coding Profiles
 
