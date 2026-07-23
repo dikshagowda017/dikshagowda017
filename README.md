@@ -1,41 +1,43 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Diksha%20Gowda&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
 # Hi there, I'm Diksha Gowda 👋
 
-### AI & ML Student • Full Stack Developer • Problem Solver
+### 🤖 Building AI-Powered Solutions • Java Developer • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Java+Developer;Building+AI+%26+Full+Stack+Projects;LeetCode+Daily+%F0%9F%9A%80;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=7F5AF0&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Java+Developer;Full+Stack+Developer;LeetCode+Everyday+🚀;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-```text
-🎓 Final Year B.E. Computer Science (AI & ML)
+```yaml
+Name: Diksha Gowda
 
-💻 Passionate about Java, Machine Learning,
-   and Full Stack Development
+Education:
+  B.E. Computer Science (AI & ML)
 
-🧠 Currently Learning
-   • Spring Boot
-   • Data Structures & Algorithms
-   • System Design
+Current Focus:
+  - Data Structures & Algorithms
+  - Spring Boot
+  - Machine Learning
 
-🚀 Currently Building
-   • AI Resume Screener
-   • Student Skill Tracker
-   • Daily LeetCode Solutions
+Interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Problem Solving
 
-🎯 Goal
-   Software Development Engineer (SDE)
-   | AI Engineer
+Goal:
+  Become a Software Development Engineer
+  and AI Engineer
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -45,18 +47,18 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Status |
-|---------|------------|-------------|--------|
-| 🤖 **AI Resume Screener** | Python, NLP, Scikit-learn, Streamlit | AI-powered resume screening system that parses resumes, extracts skills, and matches candidates with job descriptions using **TF-IDF** and **Cosine Similarity**. | ✅ Completed |
-| 🧠 **Adaptive CPU Scheduling using Reinforcement Learning** | Python, Reinforcement Learning | Intelligent CPU scheduler that optimizes waiting time, turnaround time, and CPU utilization using **Reinforcement Learning**, benchmarked against **FCFS** and **Round Robin** algorithms. | 🚧 Ongoing |
-| 🌐 **Portfolio Website** | HTML, CSS, JavaScript | Responsive personal portfolio showcasing projects, technical skills, certifications, and achievements with a modern and clean user interface. | ✅ Completed |
-| 🎬 **Movie Recommendation System** | Python, Machine Learning | Recommendation engine using **Collaborative Filtering** to suggest personalized movies based on user preferences and similarity metrics. | ✅ Completed |
+| 🚀 Project | 🛠 Tech Stack | ✨ Highlights | Status |
+|------------|---------------|---------------|--------|
+| 🤖 **AI Resume Screener** | Python • NLP • Scikit-learn • Streamlit | Resume Parsing • Skill Extraction • TF-IDF • Cosine Similarity • Job Matching | ✅ Completed |
+| 🧠 **Adaptive CPU Scheduling using Reinforcement Learning** | Python • Reinforcement Learning | AI-based CPU Scheduling • FCFS vs Round Robin • Performance Optimization | 🚧 Ongoing |
+| 🌐 **Portfolio Website** | HTML • CSS • JavaScript | Responsive UI • Modern Design • Mobile Friendly | ✅ Completed |
+| 🎬 **Movie Recommendation System** | Python • Machine Learning | Collaborative Filtering • Personalized Recommendations | ✅ Completed |
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -65,45 +67,67 @@
 <img height="170" src="https://streak-stats.demolab.com?user=dikshagowda017&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ---
 
-## 🏆 Coding Profiles
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshagowda017&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
 
 <p align="center">
 
 <a href="https://leetcode.com/u/DikshaBR017/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
-<a href="https://github.com/dikshagowda017">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/DikshaBR017?theme=dark&font=Poppins&ext=contest"/>
 
-<a href="https://www.linkedin.com/in/diksha-gowda-242881293/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🌱 Currently Working On
+# 🌐 Connect With Me
 
-- 🔹 Solving LeetCode problems every day
-- 🔹 Building AI & Machine Learning projects
-- 🔹 Learning Spring Boot
-- 🔹 Improving Full Stack Development skills
+<p align="center">
+
+<a href="https://github.com/dikshagowda017">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/DikshaBR017/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/diksha-gowda-242881293/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🌼 Quote
+# 🌼 Quote
 
-> *"Consistency beats intensity. Every commit brings me one step closer to my goal."*
+> **"Consistency beats intensity. Every commit is one step closer to becoming the engineer I aspire to be."**
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=dikshagowda017&color=7F5AF0&style=flat-square"/>
 
 </div>
