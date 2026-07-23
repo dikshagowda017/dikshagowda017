@@ -67,11 +67,6 @@
 </p>
 
 ---
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
-</p>
 
 ## 🏆 Coding Profiles
 
