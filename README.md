@@ -97,19 +97,6 @@
 
 ---
 
-## 💡 Fun Fact
-
-```java
-while (!success) {
-    learn();
-    code();
-    commit();
-    improve();
-}
-```
-
----
-
 ## 🌼 Quote
 
 > *"Consistency beats intensity. Every commit brings me one step closer to my goal."*
@@ -119,7 +106,5 @@ while (!success) {
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=dikshagowda017&color=7F5AF0&style=flat-square"/>
 
 </div>
