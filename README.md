@@ -128,6 +128,4 @@ Goal:
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=dikshagowda017&color=7F5AF0&style=flat-square"/>
-
 </div>
