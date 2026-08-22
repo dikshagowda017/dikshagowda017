@@ -114,16 +114,6 @@ Goal:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
----
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshagowda017&theme=tokyo-night&hide_border=true"/>
-
-</p>
----
 
 # 🐍 Contribution Snake
 
@@ -132,4 +122,5 @@ Goal:
 <img src="https://raw.githubusercontent.com/dikshagowda017/dikshagowda017/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </p>
+### ⭐ Thanks for visiting my profile!
 </div>
