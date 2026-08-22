@@ -58,16 +58,6 @@ Goal:
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshagowda017&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 LeetCode
 
 <p align="center">
@@ -106,12 +96,6 @@ Goal:
 
 ---
 
-# 🌼 Quote
-
-> **"Consistency beats intensity. Every commit is one step closer to becoming the engineer I aspire to be."**
-
----
-
 <div align="center">
 
 
@@ -122,5 +106,13 @@ Goal:
 <img src="https://raw.githubusercontent.com/dikshagowda017/dikshagowda017/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </p>
+
+---
+
+# 🌼 Quote
+
+> **"Consistency beats intensity. Every commit is one step closer to becoming the engineer I aspire to be."**
+
+---
 ### ⭐ Thanks for visiting my profile!
 </div>
